@@ -11,6 +11,7 @@ The code and descriptions are derived from the following books:
 - **Machine Learning: An Algorithmic Perspective** by Stephen Marsland
 - **A Hands-On Introduction to Machine Learning** by Chirag Shah
 - **Machine Learning Refined** by Jeremy Watt, Reza Borhani, and Aggelos Katsaggelos
+- **A Bayesian Tutorial (2E) by D. S. Sivia with J. Skilling
 
 ## Contents
 
