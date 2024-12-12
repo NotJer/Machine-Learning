@@ -11,7 +11,8 @@ The code and descriptions are derived from the following books:
 - **Machine Learning: An Algorithmic Perspective** by Stephen Marsland
 - **A Hands-On Introduction to Machine Learning** by Chirag Shah
 - **Machine Learning Refined** by Jeremy Watt, Reza Borhani, and Aggelos Katsaggelos
-- A Bayesian Tutorial (2E) by D. S. Sivia with J. Skilling
+- **A Bayesian Tutorial (2E)** by D. S. Sivia with J. Skilling (ISBN 978-0-19-856832-2)
+- UCI Machine Learning Repository
 
 ## Contents
 
@@ -36,7 +37,8 @@ Regularization techniques are used to prevent overfitting in machine learning mo
 ### TensorFlow for Neural Networks
 TensorFlow is an open-source machine learning framework developed by Google. It is widely used for building and training neural networks, including deep learning models.
 
-## Usage
+### Agglomerative Clustering
+Agglomerative clustering is a type of hierarchical clustering that builds nested clusters by repeatedly merging or splitting them. This technique starts with each data point as a single cluster and merges the closest pair of clusters until all points are in a single cluster or a specified number of clusters is reached. It is useful for discovering the underlying structure in data.
 
-To use the code in this repository, ensure you have the necessary dependencies installed. Such as Tensorflow, numpy, etc.
-
+### Bayes Updating
+Bayes updating is the process of adjusting the probability estimate for a hypothesis as more evidence or data becomes available. It uses Bayes' theorem to update the prior probability to a posterior probability. This method is foundational in Bayesian statistics and allows new data into existing models, making it effective for sequential analysis and decision-making under uncertainty.
